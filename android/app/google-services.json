@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "978721047532",
+    "project_id": "cricketrapp",
+    "storage_bucket": "cricketrapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978721047532:android:60de5262c8820d73a8b6c9",
+        "android_client_info": {
+          "package_name": "com.cricketr.livegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978721047532-n2h9o3ib0i37b7t6ree4aut2ld9elh6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGKgTDKwPxicxMDXsI1Q1gwcSv3SVfYDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978721047532-n2h9o3ib0i37b7t6ree4aut2ld9elh6h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978721047532-jcr38kkk1lm0v2qef82l20a4tjb7q8lq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cricketr.livescore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

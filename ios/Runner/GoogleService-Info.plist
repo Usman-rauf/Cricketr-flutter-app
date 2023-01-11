@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>978721047532-r9rptqa8iieeg1vq4o9m0ko9lho3v0uk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.978721047532-r9rptqa8iieeg1vq4o9m0ko9lho3v0uk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>978721047532-mihpdnrqtsj85ojbru752rs9tvlon1u5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCTv7V63UQzkPQon9gU8T_wM4ya5HBq7-A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>978721047532</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cricketr.livegame</string>
+	<key>PROJECT_ID</key>
+	<string>cricketrapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cricketrapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:978721047532:ios:ec78d9af257a9e4aa8b6c9</string>
+</dict>
+</plist>
